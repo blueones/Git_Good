@@ -1,4 +1,4 @@
-*******
+﻿*******
 Only edit your number!
 *******
 
@@ -27,7 +27,7 @@ Only edit your number!
 8.  "Death is hereditary."
 
 
-9.  "He who laughs last, didn’t get it."
+9.  "atlas shrugged rules."
 
 
 10. "Always remember you’re unique, just like everyone else."
